@@ -26,7 +26,6 @@ pip install -r requirements.txt
 ### Na primeira instalação criar migrations
 (usar terminal ou vscode)
 ```
-cd Crud
 python manage.py makemigrations
 python manage.py migrate
 ```
